@@ -26,20 +26,18 @@ I'm a passionate **Aspiring Backend Developer / System Engineering Student** wit
 
 ### [CorruWatch](https://github.com/ClaudeAkakpo/corruwatch)
 
-![Project 1 Screenshot](https://your_image_url_here)
 
 **CorruWatch** is a **transparency and civic engagement platform** built with **Node.js, Express.js, MongoDB, and EJS**. This project demonstrates my ability to design scalable backends and create systems that help users track government spending and report corruption.  
 🔗 [View the repository](https://github.com/ClaudeAkakpo/corruwatch)
 
 ### [AI Learning Companion](https://github.com/ClaudeAkakpo/ai-learning-companion)
 
-![Project 2 Screenshot](https://your_image_url_here)
 
 **AI Learning Companion** is a **personalized learning assistant** using **ChatGPT and Microsoft Copilot** integrations. It matches users' learning styles with AI tools for deeper, more interactive study experiences.  
 🔗 [View the repository](https://github.com/ClaudeAkakpo/ai-learning-companion)
 
 ## Get in Touch 📬
 
-- 🌐 [Personal Website](https://claudeakakpo.dev)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/claudeakakpo)  
-- 💻 [GitHub](https://github.com/ClaudeAkakpo)
+- 🌐 [Personal Website](https://claude09.my.canva.site/about-claude)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/claude-akakpo-66a54a2b5/)  
+- 💻 [GitHub](https://github.com/iamclaude)
