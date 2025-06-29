@@ -1,6 +1,6 @@
 # Hi there, I'm Claude Akakpo! 👋
 
-![Banner Image](https://your_banner_image_url_here)
+
 
 ## About Me 🚀
 
