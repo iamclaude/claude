@@ -9,7 +9,7 @@ I'm a passionate **Aspiring Backend Developer / System Engineering Student** wit
 - 🌱 Currently learning: **Express.js, MongoDB, Python, and backend architecture**
 - 🔭 Working on: **A transparency tool for reducing government corruption in African nations**
 - 🌍 Languages: **JavaScript, Python, Ewe, English, French (basic)**
-- 📫 How to reach me: **claudeakakpo.dev@gmail.com**
+- 📫 How to reach me: **claudekofiaka@gmail.com**
 - ⚡ Fun fact: **I’m a night owl who loves deep convos, music, and spontaneous travel**
 
 ## My Skills 🧠
